@@ -39,7 +39,7 @@ This is an official PyTorch implementation of Query-Based Knowledge Sharing for 
 2. Preprocess using following commands:
 ```bash
 python scripts/nuswide.py
-python scripts/download.py --mode train/validation/test --num-workers 32  # dowload image data for Open Images
+python scripts/download.py --mode [train, validation, test] --num-workers 32  # dowload image data for Open Images
 python scripts/openimages.py
 ```
 

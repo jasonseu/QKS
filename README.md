@@ -1,7 +1,7 @@
 ## Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification
 
 ### Introduction
-This is an official PyTorch implementation of Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification, submitted to IEEE Transactions on Multimedia. [[paper]]()
+This is an official PyTorch implementation of Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification, submitted to IEEE Transactions on Circuits and Systems for Video Technology 2024. [[paper]]()
 
 ![alt tsformer](src/framework.png)
 
